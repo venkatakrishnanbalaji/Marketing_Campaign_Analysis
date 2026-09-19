@@ -26,7 +26,7 @@ The project was executed through a structured, four-task workflow:
 - Task 3: DAX Measures: Created targeted analytical measures within the performance table, including Total Impressions, Total Clicks, Total Conversions, Total Revenue, Total Spend, Total ROI, Average ROI, and a dynamic measure to identify the Best Campaign.
 - Task 4: Visualizations: Designed a professional, high-contrast dashboard incorporating all required charts and interactive slicers to allow stakeholders to filter by specific Regions and Industries.
 
-## Process
+## Dashboard
 <img width="1163" height="656" alt="Marketing_campaign_analysis_reportpage" src="https://github.com/user-attachments/assets/00dbc0da-a6e4-4be5-8100-bb5783ce1528" />
 
 ## Project Insights
