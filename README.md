@@ -17,8 +17,6 @@ The dashboard was built to answer key business questions using the following spe
 - Pie Chart: What is the breakdown of the number of campaigns by Campaign Type (Digital vs. Traditional)?
 - Gauge Chart: How does the cumulative Total ROI track alongside the Average ROI?
 
-- Dashboard Interaction <a href = "https://github.com/venkatakrishnanbalaji/Marketing_Campaign_Analysis/blob/main/Marketing_campaign_analysis_reportpage.png"> View Dashboard </a>
-
 ## Process
 The project was executed through a structured, four-task workflow:
 - Task 1: Data Preparation: Imported 3 distinct CSV files into Power BI. The dataset was cleaned by handling nulls and duplicates, correcting data types, and renaming columns for clarity (e.g., standardizing headers to "Campaign_Type" and "Total_Spend").
